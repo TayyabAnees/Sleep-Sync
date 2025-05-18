@@ -29,7 +29,7 @@ SleepSync/
 
 ---
 
-## 🔧 3.Sensor Block Diagram
+## 🔧 3. Sensor Block Diagram
 ![Block Diagram](assets/block.jpg) <!-- Replace with actual image -->
 
 ---
@@ -122,7 +122,6 @@ SleepSync/
 
 - **Tayyab Anees** – Embedded + AI Model + MQTT + Flask Backend 
 - **Abdul Ahad** – Flutter + Firebase
-- 
 ---
 
 ## 📄 License
