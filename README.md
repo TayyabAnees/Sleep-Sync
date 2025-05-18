@@ -25,10 +25,17 @@ SleepSync/
 ---
 
 ## 🧠 2. System Architecture
+---
 
-### 🔧 Sensor Block Diagram
+![Architecture Diagram](assets/arch.png)
 
-![Block Diagram](assets/sensor_block_diagram.png) <!-- Replace with actual image -->
+---
+
+##🔧 Sensor Block Diagram
+
+---
+
+![Block Diagram](assets/block.jpg) <!-- Replace with actual image -->
 
 ---
 
@@ -45,9 +52,6 @@ SleepSync/
 ---
 
 ## 🤖 4. Cloud AI Model
-
-![Model Overview](assets/ai_model_architecture.png) <!-- Replace with actual image -->
-
 - **Model Type:** Random Forest Classifier  
 - **Feature Extraction:**  
   - Mean, Std, Min, Max, Median, Range  
@@ -64,6 +68,7 @@ SleepSync/
 - **Deployment:**  
   - `.pkl` model file loaded into Flask server  
   - Real-time prediction via HTTP API
+![Model Overview](assets/confuse.jpg) <!-- Replace with actual image -->
 
 ---
 
@@ -92,9 +97,9 @@ SleepSync/
 
 ## 📷 6. Sample Screenshots
 
-| Set Alarm Screen | Sleep Graphs | Wake-Up Notification |
+| Set Alarm Screen | Clock | Splash Screen |
 |------------------|--------------|-----------------------|
-| ![Alarm](assets/set_alarm.png) | ![Graphs](assets/sleep_graph.png) | ![Wake](assets/wake_up.png) |
+| ![Alarm](assets/screen1.jpg) | ![Graphs](assets/screen2.jpg) | ![Wake](assets/screen3.jpg) |
 
 ---
 
