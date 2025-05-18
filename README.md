@@ -59,11 +59,11 @@ SleepSync/
   - `min_samples_split=2`  
 - **Performance:**  
   - Accuracy: ~80%  
-  - Evaluation Metrics: Accuracy, F1-score, Confusion Matrix  
+  - Evaluation Metrics: Accuracy, F1-score, Confusion Matrix
+  - ![Model Overview](assets/confuse.jpg) <!-- Replace with actual image -->
 - **Deployment:**  
   - `.pkl` model file loaded into Flask server  
   - Real-time prediction via HTTP API
-![Model Overview](assets/confuse.jpg) <!-- Replace with actual image -->
 
 ---
 
