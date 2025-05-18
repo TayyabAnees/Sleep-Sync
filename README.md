@@ -91,11 +91,7 @@ SleepSync/
 ---
 
 ## 📷 7. Sample Screenshots
-
-| Set Alarm Screen | Clock | Splash Screen |
-|------------------|--------------|-----------------------|
-| ![Alarm](assets/screen1.jpg) | ![Graphs](assets/screen2.jpg) | ![Wake](assets/screen3.jpg) |
-
+![Alarm](assets/1.png)
 ---
 
 ## 🛠️ Tech Stack
