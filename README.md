@@ -25,21 +25,16 @@ SleepSync/
 ---
 
 ## 🧠 2. System Architecture
----
-
 ![Architecture Diagram](assets/arch.png)
 
 ---
 
-##🔧 Sensor Block Diagram
-
----
-
+## 🔧 3.Sensor Block Diagram
 ![Block Diagram](assets/block.jpg) <!-- Replace with actual image -->
 
 ---
 
-## 📡 3. MQTT Topics Overview
+## 📡 4. MQTT Topics Overview
 
 | Topic             | Type         | Description                                                                 |
 |------------------|--------------|-----------------------------------------------------------------------------|
@@ -51,7 +46,7 @@ SleepSync/
 
 ---
 
-## 🤖 4. Cloud AI Model
+## 🤖 5. Cloud AI Model
 - **Model Type:** Random Forest Classifier  
 - **Feature Extraction:**  
   - Mean, Std, Min, Max, Median, Range  
@@ -72,7 +67,7 @@ SleepSync/
 
 ---
 
-## 📱 5. Mobile App – User Guide
+## 📱 6. Mobile App – User Guide
 
 ### 🔔 Set Smart Alarm
 
@@ -95,7 +90,7 @@ SleepSync/
 
 ---
 
-## 📷 6. Sample Screenshots
+## 📷 7. Sample Screenshots
 
 | Set Alarm Screen | Clock | Splash Screen |
 |------------------|--------------|-----------------------|
@@ -125,10 +120,9 @@ SleepSync/
 
 ## 🧑‍💻 Contributors
 
-- **Tayyab Anees** – Embedded + AI Model  
-- **[Your Name Here]** – Flutter + Firebase  
-- **[Teammate 3]** – MQTT + Flask Backend
-
+- **Tayyab Anees** – Embedded + AI Model + MQTT + Flask Backend 
+- **Abdul Ahad** – Flutter + Firebase
+- 
 ---
 
 ## 📄 License
